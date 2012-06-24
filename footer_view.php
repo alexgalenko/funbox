@@ -10,6 +10,7 @@
 			</div>
 		</div>
 	</div>
+	hello
 	<script type="text/javascript" src="/js/jquery1.7.2.js"></script>
 	<script type="text/javascript" src="/js/bootstrap-dropdown.js"></script>
 	<script type="text/javascript" src="/js/jquery-ui-1.7.3.custom.min.js"></script>
